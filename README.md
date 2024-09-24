@@ -26,7 +26,7 @@ A arquitetura da solução está dividida em três camadas principais:
 
 ### Diagrama de Arquitetura
 
-![Diagrama da Arquitetura](diagrama%20do%20iot.jpg)
+![Diagrama da Arquitetura]![diagrama do iot](https://github.com/user-attachments/assets/7e55db3a-c2f7-4715-a1d1-5a219206c137)
 
 ## Recursos Necessários
 
