@@ -38,6 +38,8 @@ A arquitetura da solução está dividida em três camadas principais:
 ### Backend:
 - **Docker:** Para rodar os contêineres FIWARE, MongoDB e o broker MQTT.
 - **FIWARE Orion Context Broker:** Para gerenciar e processar os dados IoT.
+  ### Frontend:
+- **Site Interativo da Formula-E:** Desenvolvido em tecnologias web modernas (HTML, CSS, JavaScript, React).
 - **STH-Comet:** Para gerenciar séries temporais.
 - **MongoDB:** Banco de dados para armazenamento.
 - **IoT Agent MQTT:** Agente responsável pela conversão de dados MQTT.
